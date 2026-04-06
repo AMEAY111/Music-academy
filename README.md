@@ -307,14 +307,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
-
-**Ankit Mishra**
-
-- GitHub: [@AnkitMishra2006](https://github.com/AnkitMishra2006)
-- Project: [Music Academy](https://github.com/AnkitMishra2006/Music-Academy)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -338,15 +330,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 _Built with ❤️ using Next.js, TypeScript, and Tailwind CSS_
 
----
-
-## 🧑‍💻 Author
-
-Created with ❤️ by **Ankit Mishra**
-
-- GitHub: [@AnkitMishra2006](https://github.com/AnkitMishra2006)
-- Project: [Music Academy](https://github.com/AnkitMishra2006/Music-Academy)
-
----
-
-_Built with ❤️ using Next.js, TypeScript, and Tailwind CSS_
